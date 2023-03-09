@@ -1,4 +1,12 @@
+html {
+	margin: 0;
+}
+
 body {
 	background-color: blue;
-	color: #fff;
+	margin: 80px;
+}
+
+h1, p {
+	background-color: #fff;
 }
